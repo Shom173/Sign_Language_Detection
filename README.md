@@ -7,16 +7,16 @@ This project utilizes the YOLOv5 object detection model to recognize and convert
 
 Features
 
-> Real-time sign language detection and classification
-> Custom dataset annotation using LabelImg
-> Trained YOLOv5 model for high accuracy
-> Supports six sign language gestures
-> Efficient text conversion from detected signs
+-> Real-time sign language detection and classification
+-> Custom dataset annotation using LabelImg
+-> Trained YOLOv5 model for high accuracy
+-> Supports six sign language gestures
+-> Efficient text conversion from detected signs
 
 Technologies Used
 
-> Deep Learning: YOLOv5 (CNN-based object detection model)
-> Programming Languages: Python
+-> Deep Learning: YOLOv5 (CNN-based object detection model)
+-> Programming Languages: Python
 
 Libraries: OpenCV, PyTorch, TensorFlow, LabelImg
 
